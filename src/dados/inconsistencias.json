@@ -1,0 +1,32 @@
+[
+	{
+		"id": 1,
+		"mensagem": "Cliente Ana Luiza Silva sem conta contábil",
+		"link": "cliente.do?cdEmpresa=1&cdCliente=1"
+	},
+	{
+		"id": 2,
+		"mensagem": "Credor Casas da Agua sem conta contábil",
+		"link": "credor.do?cdEmpresa=1&cdCredor=2"
+	},
+	{
+		"id": 3,
+		"mensagem": "Imposto INSS sem conta contábil",
+		"link": "imposto.do?cdEmpresa=1&cdImposto=3"
+	},
+	{
+		"id": 4,
+		"mensagem": "Parâmetro contábil Descontos Obtidos sem conta contábil",
+		"link": "parametro.do?cdEmpresa=1&cdParametro=4"
+	},
+	{
+		"id": 5,
+		"mensagem": "Conta Corrente 1234-5 sem conta contábil",
+		"link": "contaCorrente.do?cdEmpresa=1&nuContaCorrente=1234-5"
+	},
+	{
+		"id": 6,
+		"mensagem": "Centro de Custo 17 - Res. Dona Lourdes plano financeiro 1.01.001.0001 Receitas com vendas sem conta contábil",
+		"link": "planoFim.do?cdEmpresa=1&cdCentroCusto=12&cdPlano=1010010001"
+	}
+]
