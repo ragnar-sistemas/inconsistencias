@@ -2,6 +2,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+npm install -g json-server
+npm install -g create-react-app
+npm install -g yarn
+
 In the project directory, you can run:
 
 ### `npm start`

@@ -1,5 +1,4 @@
 import React, { Component } from 'react'
-
 import InconsistenciaList from './inconsistencia/InconsistenciaList'
 
 class App extends Component {
