@@ -13,7 +13,7 @@ class Inconsistencia extends Component {
 					{this.props.mensagem}
 				</td>
 				<td>
-					<img src={lupa} className="img" alt="logo" width="20" height="20"/>
+					<img src={lupa} className="mx-auto d-block" alt="logo" width="20" height="20"/>
 				</td>
 			</tr>
 		)

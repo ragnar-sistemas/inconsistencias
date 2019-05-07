@@ -8,6 +8,7 @@ class InconsistenciaList extends Component {
 	render(){
 		return (
 			<div className="container">
+				<br/><br/><br/>
 				<h2>Inconsitências Para Geração de Lançamentos</h2>
 				<table className="table table-condensed">
 					<thead>
